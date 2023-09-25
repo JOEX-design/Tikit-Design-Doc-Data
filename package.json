@@ -1,6 +1,6 @@
 {
-  "name": "@tant/tikit-design-doc-data",
-  "version": "1.0.1",
+  "name": "tikit-design-doc-data",
+  "version": "1.0.0",
   "description": "Tikit Web 组件设计文档的自动化数据仓库",
   "main": "index.js",
   "scripts": {
