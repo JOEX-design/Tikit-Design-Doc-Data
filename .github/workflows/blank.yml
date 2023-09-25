@@ -28,5 +28,5 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
       - run: echo "//registry.npmjs.org/:_authToken=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" > .npmrc
       - run: npm ci
-      - run: npm version "1.0.`date '+%Y%m%d%H%M%S'`" -m "Update version number to %s"
+      - run: npm version "1.0.`date '+%Y%m%d%H%M%S'`" -m "Update version number to %s" --no-git-tag-version
       - run: npm publish
