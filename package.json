@@ -4,7 +4,6 @@
   "description": "Tikit Web 组件设计文档的自动化数据仓库",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC"
